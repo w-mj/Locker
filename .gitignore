@@ -1,0 +1,5 @@
+# EasyEDA project backups
+/hardware/Locker_backup/
+
+# Debug logs
+/hardware/debug.log
