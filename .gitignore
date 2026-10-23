@@ -3,3 +3,6 @@
 
 # Debug logs
 /hardware/debug.log
+
+# 临时工作目录（布局/布线脚本与中间数据）
+/.work/
